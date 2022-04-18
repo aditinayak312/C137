@@ -1,0 +1,21 @@
+#heading{
+    margin-top:0px;
+    width:100%;
+    line-height:2;
+}
+body{
+    background-position:center ;
+    background-size: cover;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.footer{
+    position:fixed;
+    bottom:0px;
+    width:100%;
+    line-height:2;
+    text-align: center;
+    background-color: aliceblue;
+}
+canvas{
+    margin-top: 100px;
+}
